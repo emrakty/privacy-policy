@@ -2,7 +2,7 @@
 
 ## Giriş
 
-Bu gizlilik politikası, Şen Bilezik uygulamasının kullanıcılarının kişisel bilgilerinin nasıl toplandığını, kullanıldığını ve korunduğunu açıklamaktadır. Uygulamamızı kullanarak, bu gizlilik politikasında belirtilen uygulamalarımızı kabul etmiş olursunuz.
+Bu gizlilik politikası, kullanıcılarının kişisel bilgilerinin nasıl toplandığını, kullanıldığını ve korunduğunu açıklamaktadır. Uygulamamızı kullanarak, bu gizlilik politikasında belirtilen uygulamalarımızı kabul etmiş olursunuz.
 
 ## Toplanan Bilgiler
 
