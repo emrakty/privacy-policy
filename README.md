@@ -45,7 +45,7 @@ Kullanıcılar, kişisel bilgilerinin erişimi, düzeltilmesi veya silinmesi hak
 
 ## Çocukların Gizliliği
 
-Şen Bilezik, 13 yaş altındaki çocuklardan bilerek kişisel bilgi toplamaz. Eğer 13 yaş altındaysanız, lütfen ebeveyn veya vasinizden izin almadan bu uygulamayı kullanmayın.
+Uygulamamız, 13 yaş altındaki çocuklardan bilerek kişisel bilgi toplamaz. Eğer 13 yaş altındaysanız, lütfen ebeveyn veya vasinizden izin almadan bu uygulamayı kullanmayın.
 
 ## Değişiklikler
 
