@@ -1,4 +1,4 @@
-# Gizlilik Politikası
+#Acarın Kuyumculuk Gizlilik Politikası
 
 ## Giriş
 
